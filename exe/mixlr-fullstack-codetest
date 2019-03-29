@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require "mixlr/fullstack/codetest"
+require "mixlr/fullstack/volume_level_detection"
+
+Mixlr::Fullstack::Codetest::CLI.start(ARGV)
