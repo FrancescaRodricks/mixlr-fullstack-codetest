@@ -22,7 +22,16 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Check available commands to run 
+
+    $ mixlr-fullstack-codetest
+
+    Commands:
+      mixlr-fullstack-codetest help [COMMAND]          # Describe available commands or one specific command
+      mixlr-fullstack-codetest volume-level-detection  # Retrieves stream information
+
+    $ mixlr-fullstack-codetest volume-level-detection 
+
 
 ## Development
 
